@@ -4,18 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="544fea83-423b-4f1e-96d1-5c1cc7bd2860" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="544fea83-423b-4f1e-96d1-5c1cc7bd2860" name="Changes" comment="niepoprawny przyklad">
+      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/BadDocumentTypeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/DocumentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/DocumentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/JsonGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/PdfGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/TxtGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/bad/BadMainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/BadMainApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +46,31 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="plSlaw.bad" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BadMainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="plSlaw.bad.BadMainApp" />
+      <module name="SpringBootSSCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="plSlaw.bad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BadMainApp" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,6 +80,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661617531653</updated>
     </task>
+    <task id="LOCAL-00001" summary="niepoprawny przyklad">
+      <created>1661618311365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661618311365</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -57,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="niepoprawny przyklad" />
+    <option name="LAST_COMMIT_MESSAGE" value="niepoprawny przyklad" />
   </component>
 </project>
