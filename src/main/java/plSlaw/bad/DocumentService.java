@@ -7,6 +7,7 @@ public class DocumentService {
     private final PdfGenerator pdfGenerator = new PdfGenerator();
     private final JsonGenerator jsonGenerator = new JsonGenerator();
     private final TxtGenerator txtGenerator = new TxtGenerator();
+    private final XmlGenerator xmlGenerator = new XmlGenerator();
 
     //zaleznie od enuma, wygeneruje nam odpowiedni generate()
     public String generate(final DocumentType documentType) {
@@ -19,7 +20,10 @@ public class DocumentService {
             return txtGenerator.generate();
         } else if (documentType.equals(DocumentType.JSON)) {
             return jsonGenerator.generate();
-        } else {
+        } else if (documentType.equals(DocumentType.XML)) {
+            return xmlGenerator.generate();
+        }
+        else {
             throw new BadDocumentTypeException("Bad document type !");
         }
     }

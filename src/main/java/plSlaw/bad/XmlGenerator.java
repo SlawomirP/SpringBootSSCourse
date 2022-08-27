@@ -1,7 +1,7 @@
 package plSlaw.bad;
 
-public class PdfGenerator {
+public class XmlGenerator {
     public String generate(){
-        return "Generate Pdf";
+        return "Generate Xml";
     }
 }

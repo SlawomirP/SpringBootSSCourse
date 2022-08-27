@@ -5,7 +5,7 @@ public class BadMainApp {
 
         final DocumentService documentService = new DocumentService();
 
-        System.out.println(documentService.generate(DocumentType.PDF));
+        System.out.println(documentService.generate(DocumentType.XML));
 
     }
 }
