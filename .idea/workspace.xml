@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="544fea83-423b-4f1e-96d1-5c1cc7bd2860" name="Changes" comment="niepoprawny przyklad">
-      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/BadDocumentTypeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/DocumentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/DocumentType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/JsonGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/PdfGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/TxtGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/bad/BadMainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/BadMainApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661618311365</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="niepoprawny przyklad">
+      <created>1661622898019</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661622898019</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
