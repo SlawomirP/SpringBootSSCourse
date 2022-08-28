@@ -1,4 +1,4 @@
-package plSlaw.bean.generator;
+package plSlaw.autoconfig.generator;
 
 public class JsonGenerator implements DocumentGenerator {
     public String generate() {

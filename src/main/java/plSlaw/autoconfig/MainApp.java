@@ -1,9 +1,9 @@
-package plSlaw.bean;
+package plSlaw.autoconfig;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import plSlaw.bean.configuration.AppConfiguration;
-import plSlaw.bean.service.DocumentService;
+import plSlaw.autoconfig.configuration.AppConfiguration;
+import plSlaw.autoconfig.service.DocumentService;
 
 public class MainApp {
     public static void main(String[] args) {

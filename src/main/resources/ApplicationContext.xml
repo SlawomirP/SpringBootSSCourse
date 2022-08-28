@@ -8,11 +8,11 @@
 <!--    &lt;!&ndash;   określamy klasy będące beanami&ndash;&gt;-->
 <!--    &lt;!&ndash;    robimy beana z klasy DocumentService, a w jej konstruktor wstrzykujemy&ndash;&gt;-->
 <!--    &lt;!&ndash;    kolejnego beana z klasy np XmlGenerator&ndash;&gt;-->
-<!--    <bean id="documentService" class="plSlaw.bean.service.DocumentService">-->
+<!--    <bean id="documentService" class="plSlaw.autoconfig.service.DocumentService">-->
 <!--        &lt;!&ndash;        parametr w kostruktorze o indexie 0&ndash;&gt;-->
 <!--        <constructor-arg index="0">-->
 <!--            &lt;!&ndash;            tam wstrzykujemy beana zrobionego z klasy XmlGenerator&ndash;&gt;-->
-<!--            <bean id="xmlGenerator" class="plSlaw.bean.generator.XmlGenerator"/>-->
+<!--            <bean id="xmlGenerator" class="plSlaw.autoconfig.generator.XmlGenerator"/>-->
 <!--        </constructor-arg>-->
 <!--    </bean>-->
 

@@ -1,6 +1,6 @@
-package plSlaw.bean.service;
+package plSlaw.autoconfig.service;
 
-import plSlaw.bean.generator.DocumentGenerator;
+import plSlaw.autoconfig.generator.DocumentGenerator;
 
 public class DocumentService {
 
