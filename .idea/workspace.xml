@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="544fea83-423b-4f1e-96d1-5c1cc7bd2860" name="Changes" comment="konfiguracja za pomoca anotacji">
-      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bean/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bean/configuration/AppConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/xml/DocumentGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bean/generator/DocumentGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/xml/DocumentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bean/service/DocumentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/xml/JsonGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bean/generator/JsonGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/xml/MainApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/xml/PdfGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bean/generator/PdfGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/xml/TxtGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bean/generator/TxtGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/xml/XmlGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bean/generator/XmlGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/plSlaw/xml/DocumentServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/plSlaw/bean/DocumentServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/bean/configuration/AppConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bean/configuration/AppConfiguration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +59,7 @@
       <recent name="plSlaw.bad" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in SpringBootSSCourse">
+  <component name="RunManager" selected="Application.GoodMainApp">
     <configuration name="BadMainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="plSlaw.bad.BadMainApp" />
       <module name="SpringBootSSCourse" />
@@ -122,8 +111,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in SpringBootSSCourse" />
         <item itemvalue="Application.GoodMainApp" />
+        <item itemvalue="JUnit.All in SpringBootSSCourse" />
         <item itemvalue="JUnit.DocumentServiceTest" />
         <item itemvalue="Application.BadMainApp" />
       </list>
@@ -215,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661699213862</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="konfiguracja za pomoca anotacji">
+      <created>1661700153906</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661700153906</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
