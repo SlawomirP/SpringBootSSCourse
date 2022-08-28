@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="544fea83-423b-4f1e-96d1-5c1cc7bd2860" name="Changes" comment="konfiguracja za pomoca anotacji">
+    <list default="true" id="544fea83-423b-4f1e-96d1-5c1cc7bd2860" name="Changes" comment="automatyczna konfiguracja kontenera wstrzykiwań">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/configuration/AppConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/configuration/AppConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/generator/JsonGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/generator/JsonGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/generator/PdfGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/generator/PdfGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/generator/TxtGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/generator/TxtGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/generator/XmlGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/generator/XmlGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/service/DocumentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/service/DocumentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +34,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2DwkRgs9wbX19KqF2xHcD6BoIOz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -218,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661700530511</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="automatyczna konfiguracja kontenera wstrzykiwań">
+      <created>1661701307504</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1661701307504</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,7 +258,8 @@
     <MESSAGE value="omowienie, konfiguracja XML" />
     <MESSAGE value="uzupelnianie pliku xml" />
     <MESSAGE value="konfiguracja za pomoca anotacji" />
-    <option name="LAST_COMMIT_MESSAGE" value="konfiguracja za pomoca anotacji" />
+    <MESSAGE value="automatyczna konfiguracja kontenera wstrzykiwań" />
+    <option name="LAST_COMMIT_MESSAGE" value="automatyczna konfiguracja kontenera wstrzykiwań" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
