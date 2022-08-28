@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="544fea83-423b-4f1e-96d1-5c1cc7bd2860" name="Changes" comment="automatyczna konfiguracja kontenera wstrzykiwań">
+    <list default="true" id="544fea83-423b-4f1e-96d1-5c1cc7bd2860" name="Changes" comment="spring boot">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/configuration/AppConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/configuration/AppConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/generator/JsonGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/generator/JsonGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/generator/PdfGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/generator/PdfGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/generator/TxtGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/generator/TxtGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/generator/XmlGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/generator/XmlGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/service/DocumentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/service/DocumentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/autoconfig/MainApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661701307504</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="spring boot">
+      <created>1661704932729</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661704932729</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,7 +259,8 @@
     <MESSAGE value="uzupelnianie pliku xml" />
     <MESSAGE value="konfiguracja za pomoca anotacji" />
     <MESSAGE value="automatyczna konfiguracja kontenera wstrzykiwań" />
-    <option name="LAST_COMMIT_MESSAGE" value="automatyczna konfiguracja kontenera wstrzykiwań" />
+    <MESSAGE value="spring boot" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring boot" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
