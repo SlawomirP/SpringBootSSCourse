@@ -22,7 +22,7 @@ public class DocumentServiceTest {
     }
 
     @Test
-    public void generateXnl() {
+    public void generateXml() {
         //given
 //        DocumentGenerator documentGenerator = new XmlGenerator();
 //        DocumentService documentService = new DocumentService(documentGenerator);
@@ -35,6 +35,19 @@ public class DocumentServiceTest {
         //then
         Assert.assertEquals("Generate Xml", result);
     }
+
+    @Test
+    public void generateTxt() {
+        //given
+        DocumentService documentService = givenDocumentService(new TxtGenerator());
+
+        //when
+        final String result = documentService.generate();
+
+        //then
+        Assert.assertEquals("Generate Txt", result);
+    }
+
 
     //aby nie dublowac kodu robimy metode zastepująca
     private DocumentService givenDocumentService(final DocumentGenerator documentGenerator){
