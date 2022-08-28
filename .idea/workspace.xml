@@ -76,11 +76,11 @@
       </method>
     </configuration>
     <configuration name="GoodMainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="plSlaw.good.GoodMainApp" />
+      <option name="MAIN_CLASS_NAME" value="plSlaw.xml.GoodMainApp" />
       <module name="SpringBootSSCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="plSlaw.good.*" />
+          <option name="PATTERN" value="plSlaw.xml.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
       <module name="SpringBootSSCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="plSlaw.good.*" />
+          <option name="PATTERN" value="plSlaw.xml.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="plSlaw.good" />
-      <option name="MAIN_CLASS_NAME" value="plSlaw.good.DocumentServiceTest" />
+      <option name="MAIN_CLASS_NAME" value="plSlaw.xml.DocumentServiceTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -155,7 +155,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661687741960</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="dodawanie testow">
+      <created>1661689118016</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661689118016</updated>
+    </task>
+    <task id="LOCAL-00007" summary="dodawanie testow">
+      <created>1661689284365</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661689284365</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

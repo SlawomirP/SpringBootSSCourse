@@ -1,4 +1,4 @@
-package plSlaw.good;
+package plSlaw.xml;
 
 public interface DocumentGenerator {
     String generate();

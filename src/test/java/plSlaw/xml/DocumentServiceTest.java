@@ -1,9 +1,7 @@
-package plSlaw.good;
+package plSlaw.xml;
 
 import org.junit.Assert;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class DocumentServiceTest {
 
@@ -50,7 +48,7 @@ public class DocumentServiceTest {
 
 
     //aby nie dublowac kodu robimy metode zastepująca
-    private DocumentService givenDocumentService(final DocumentGenerator documentGenerator){
+    private DocumentService givenDocumentService(final DocumentGenerator documentGenerator) {
         return new DocumentService(documentGenerator);
     }
 
