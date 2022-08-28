@@ -1,4 +1,6 @@
-package plSlaw.xml;
+package plSlaw.bean.service;
+
+import plSlaw.bean.generator.DocumentGenerator;
 
 public class DocumentService {
 

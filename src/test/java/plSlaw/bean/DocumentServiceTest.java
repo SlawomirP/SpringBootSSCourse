@@ -1,7 +1,12 @@
-package plSlaw.xml;
+package plSlaw.bean;
 
 import org.junit.Assert;
 import org.junit.Test;
+import plSlaw.bean.generator.DocumentGenerator;
+import plSlaw.bean.generator.JsonGenerator;
+import plSlaw.bean.generator.TxtGenerator;
+import plSlaw.bean.generator.XmlGenerator;
+import plSlaw.bean.service.DocumentService;
 
 public class DocumentServiceTest {
 

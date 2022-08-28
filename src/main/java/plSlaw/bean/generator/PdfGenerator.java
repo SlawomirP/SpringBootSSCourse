@@ -1,4 +1,4 @@
-package plSlaw.xml;
+package plSlaw.bean.generator;
 
 public class PdfGenerator implements DocumentGenerator {
     public String generate() {
