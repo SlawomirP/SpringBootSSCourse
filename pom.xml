@@ -12,6 +12,7 @@
         <maven.compiler.source>18</maven.compiler.source>
         <maven.compiler.target>18</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <spring.version>5.2.5.RELEASE</spring.version>
     </properties>
     <dependencies>
         <dependency>
@@ -35,7 +36,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>5.3.22</version>
+            <version>${spring.version}</version>
         </dependency>
 
     </dependencies>

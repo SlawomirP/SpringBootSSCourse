@@ -1,6 +1,6 @@
 package plSlaw.xml;
 
-public class GoodMainApp {
+public class MainApp {
     public static void main(String[] args) {
 
         DocumentGenerator documentGenerator = new XmlGenerator();

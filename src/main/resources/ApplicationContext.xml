@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+<!--   określamy klasy będące beanami-->
+<!--    robimy beana z klasy DocumentService, a w jej konstruktor wstrzykujemy-->
+<!--    kolejnego beana z klasy np XmlGenerator-->
+    <bean id="documentService" class="plSlaw.xml.DocumentService">
+<!--        parametr w kostruktorze o indexie 0-->
+        <constructor-arg index="0">
+<!--            tam wstrzykujemy beana zrobionego z klasy XmlGenerator-->
+            <bean id="xmlGenerator" class="plSlaw.xml.XmlGenerator"/>
+        </constructor-arg>
+    </bean>
+
+
+</beans>

@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="544fea83-423b-4f1e-96d1-5c1cc7bd2860" name="Changes" comment="dodawanie testow">
+    <list default="true" id="544fea83-423b-4f1e-96d1-5c1cc7bd2860" name="Changes" comment="omowienie, konfiguracja XML">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/plSlaw/good/DocumentServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/plSlaw/good/DocumentServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/xml/GoodMainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/xml/MainApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
     "last_opened_file_path": "G:/Mój dysk/Java/SpringBootSSCourse/SpringBootSSCourse/src/main/java/plSlaw/good",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -75,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoodMainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="plSlaw.xml.GoodMainApp" />
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="plSlaw.xml.MainApp" />
       <module name="SpringBootSSCourse" />
       <extension name="coverage">
         <pattern>
@@ -169,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661689284365</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="omowienie, konfiguracja XML">
+      <created>1661692025534</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661692025534</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,7 +196,8 @@
     <MESSAGE value="poprawny przyklad" />
     <MESSAGE value="poprawny przyklad, porownanie obu implementacji" />
     <MESSAGE value="dodawanie testow" />
-    <option name="LAST_COMMIT_MESSAGE" value="dodawanie testow" />
+    <MESSAGE value="omowienie, konfiguracja XML" />
+    <option name="LAST_COMMIT_MESSAGE" value="omowienie, konfiguracja XML" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
