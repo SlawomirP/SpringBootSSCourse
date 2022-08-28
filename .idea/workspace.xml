@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="544fea83-423b-4f1e-96d1-5c1cc7bd2860" name="Changes" comment="omowienie, konfiguracja XML">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" afterDir="false" />
+    <list default="true" id="544fea83-423b-4f1e-96d1-5c1cc7bd2860" name="Changes" comment="uzupelnianie pliku xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/xml/GoodMainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/xml/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/xml/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/xml/MainApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
       <recent name="plSlaw.bad" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DocumentServiceTest">
+  <component name="RunManager" selected="JUnit.All in SpringBootSSCourse">
     <configuration name="BadMainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="plSlaw.bad.BadMainApp" />
       <module name="SpringBootSSCourse" />
@@ -89,6 +87,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in SpringBootSSCourse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootSSCourse" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DocumentServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SpringBootSSCourse" />
       <extension name="coverage">
@@ -106,8 +112,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DocumentServiceTest" />
+        <item itemvalue="JUnit.All in SpringBootSSCourse" />
         <item itemvalue="Application.GoodMainApp" />
+        <item itemvalue="JUnit.DocumentServiceTest" />
         <item itemvalue="Application.BadMainApp" />
       </list>
     </recent_temporary>
@@ -177,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661692025534</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="uzupelnianie pliku xml">
+      <created>1661694542702</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661694542702</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,7 +211,8 @@
     <MESSAGE value="poprawny przyklad, porownanie obu implementacji" />
     <MESSAGE value="dodawanie testow" />
     <MESSAGE value="omowienie, konfiguracja XML" />
-    <option name="LAST_COMMIT_MESSAGE" value="omowienie, konfiguracja XML" />
+    <MESSAGE value="uzupelnianie pliku xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="uzupelnianie pliku xml" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

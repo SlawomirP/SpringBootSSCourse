@@ -1,12 +1,17 @@
 package plSlaw.xml;
 
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
 public class MainApp {
     public static void main(String[] args) {
 
-        DocumentGenerator documentGenerator = new XmlGenerator();
+//odwołanie do kontenera springowego
+        ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext("ApplicationContext.xml");
 
-        DocumentService documentService = new DocumentService(documentGenerator);
+//pobranie beana przez utorzony applicationContext
+        DocumentService documentService = applicationContext.getBean(DocumentService.class);
 
+        //wyswietlenie documentService
         System.out.println(documentService.generate());
     }
 }
