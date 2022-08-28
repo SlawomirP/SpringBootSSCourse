@@ -10,6 +10,5 @@ public class GoodMainApp {
         DocumentService documentService = new DocumentService(documentGenerator);
 
         System.out.println(documentService.generate());
-
     }
 }

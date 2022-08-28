@@ -4,23 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="544fea83-423b-4f1e-96d1-5c1cc7bd2860" name="Changes" comment="poprawny przyklad">
-      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/XmlGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/good/DocumentGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/good/DocumentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/good/GoodMainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/good/JsonGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/good/PdfGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/good/TxtGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/plSlaw/good/XmlGenerator.java" afterDir="false" />
+    <list default="true" id="544fea83-423b-4f1e-96d1-5c1cc7bd2860" name="Changes" comment="poprawny przyklad, porownanie obu implementacji">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/bad/BadDocumentTypeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/BadDocumentTypeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/bad/BadMainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/BadMainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/bad/DocumentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/DocumentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/bad/DocumentType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/DocumentType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/bad/JsonGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/JsonGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/bad/PdfGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/PdfGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/bad/TxtGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/bad/TxtGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/good/DocumentGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/good/DocumentGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plSlaw/good/GoodMainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plSlaw/good/GoodMainApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,15 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "G:/Mój dysk/Java/SpringBootSSCourse/SpringBootSSCourse/src/main/java/plSlaw/good",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Mój dysk/Java/SpringBootSSCourse/SpringBootSSCourse/src/main/java/plSlaw/good&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\Mój dysk\Java\SpringBootSSCourse\SpringBootSSCourse\src\main\java\plSlaw\good" />
@@ -129,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661629058983</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="poprawny przyklad, porownanie obu implementacji">
+      <created>1661633958425</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661633958425</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,7 +140,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="niepoprawny przyklad" />
     <MESSAGE value="poprawny przyklad" />
-    <option name="LAST_COMMIT_MESSAGE" value="poprawny przyklad" />
+    <MESSAGE value="poprawny przyklad, porownanie obu implementacji" />
+    <option name="LAST_COMMIT_MESSAGE" value="poprawny przyklad, porownanie obu implementacji" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
