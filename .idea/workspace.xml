@@ -44,7 +44,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
-    "last_opened_file_path": "G:/Mój dysk/Java/SpringBootSSCourse/SpringBootSSCourse/src/main/java/plSlaw/good",
+    "last_opened_file_path": "C:/Users/slawo/Desktop/JavaProjekty/SpringBootSSCourse/SpringBootSSCourse",
     "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
@@ -63,7 +63,7 @@
       <recent name="plSlaw.bad" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GoodMainApp">
+  <component name="RunManager" selected="Application.MainApp">
     <configuration name="BadMainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="plSlaw.bad.BadMainApp" />
       <module name="SpringBootSSCourse" />
@@ -115,7 +115,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GoodMainApp" />
+        <item itemvalue="Application.MainApp" />
         <item itemvalue="JUnit.All in SpringBootSSCourse" />
         <item itemvalue="JUnit.DocumentServiceTest" />
         <item itemvalue="Application.BadMainApp" />
